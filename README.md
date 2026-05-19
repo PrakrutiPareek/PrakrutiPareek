@@ -4,13 +4,13 @@
 <p>I’m a Front-End Developer passionate about building clean, user-friendly web applications.  
 I transitioned from a science background into tech, and I enjoy learning by building real projects.</p>
 
-- 🌱 I’m currently learning **Full-stack with Code First Girls - CFGDegree**
+🌱 I’m currently learning **Full-stack with Code First Girls - CFGDegree**
 
-- 👨‍💻 All of my projects are available at [https://prakruti-pareek-portfolio.netlify.app/](https://prakruti-pareek-portfolio.netlify.app/)
+👨‍💻 All of my projects are available at [https://prakruti-pareek-portfolio.netlify.app/](https://prakruti-pareek-portfolio.netlify.app/)
 
-- 📫 How to reach me **prakruti.kapadia@gmail.com**
+📫 How to reach me **prakruti.kapadia@gmail.com**
 
-- ⚡ Fun fact **I celebrate every successful console.log like a big achievement 😄**
+⚡ Fun fact **I celebrate every successful console.log like a big achievement 😄**
 
 <h3 align="left">🌐 Connect with me</h3>
 
