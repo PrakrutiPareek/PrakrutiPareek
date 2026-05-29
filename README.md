@@ -6,7 +6,9 @@ I transitioned from a science background into tech, and I enjoy learning by buil
 
 🌱 I’m currently learning **Full-stack with Code First Girls - CFGDegree**
 
-👨‍💻 All of my projects are available at [https://prakruti-pareek-portfolio.netlify.app/](https://prakruti-pareek-portfolio.netlify.app/)
+Highly recommend this platform, its clear all basics of react for me [Scrimba - learn react](https://scrimba.com/?via=u425d2fa)
+
+👨‍💻 All of my projects are available at [Porfolio](https://prakruti-pareek-portfolio.netlify.app/)
 
 📫 How to reach me **prakruti.kapadia@gmail.com**
 
