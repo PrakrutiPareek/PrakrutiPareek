@@ -42,7 +42,6 @@ Highly recommend this platform, its clear all basics of react for me [Scrimba - 
 
 <!-- Database -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MSSQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 <br/>
 
 <!-- Tools -->
