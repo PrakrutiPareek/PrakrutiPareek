@@ -87,17 +87,3 @@ Fun fact: **I celebrate every successful console.log like a big achievement**
 <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
 
 </p>
-
-<h3 align="left">GitHub Stats</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=prakrutipareek&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=prakrutipareek&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prakrutipareek&theme=tokyonight&hide_border=true" />
-</p>
